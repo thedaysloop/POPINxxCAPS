@@ -12,7 +12,8 @@ Currently in the process of making discord bots to continue to grow my hobby.
 
 💞️ I’m looking to collaborate on Unreal Engine 4/5 Mobile Games
 
-📫 How to reach me: https://discord.gg/MDFhXT4aMz (My brainstorming discord)
+📫 How to reach me: https://discord.gg/MDFhXT4aMz (My brainstorming Discord)
+All of my bot project links can also be found in this discord.
 
 <!---
 POPINxxCAPS/POPINxxCAPS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
