@@ -8,11 +8,11 @@ My plan/goal is to make various mobile games, and eventually branch off to conso
 
 Currently in the process of making discord bots to continue to grow my hobby.
 
-🌱 I’m currently learning HTML and NodeJS
+🌱 Currently learning HTML and NodeJS
 
-💞️ I’m looking to collaborate on Unreal Engine 4/5 Mobile Games
+💞️ Looking to collaborate on Unreal Engine 4/5 Mobile Games
 
-📫 How to reach me: https://discord.gg/MDFhXT4aMz (My brainstorming Discord)
+📫 Reach me here: https://discord.gg/MDFhXT4aMz (My brainstorming Discord)
 All of my bot project links can also be found in this discord.
 
 <!---
